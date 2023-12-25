@@ -1,0 +1,5 @@
+<?php
+// PARA PODER CIFRAR INFORMACION
+define("KEY_TOKEN","APR.wqc-354*")
+
+?>
